@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Narrator Clone", "Narrator Clone\Narrator Clone.vcxproj", "{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Debug|x64.ActiveCfg = Debug|x64
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Debug|x64.Build.0 = Debug|x64
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Debug|x86.Build.0 = Debug|Win32
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Release|x64.ActiveCfg = Release|x64
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Release|x64.Build.0 = Release|x64
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Release|x86.ActiveCfg = Release|Win32
+		{2FF03C5D-FC6C-4A7F-8FA7-95A64ED74CFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A912D3-BDE8-4E73-A299-A7FF40073AF0}
+	EndGlobalSection
+EndGlobal
