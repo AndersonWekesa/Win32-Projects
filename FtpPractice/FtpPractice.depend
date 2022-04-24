@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\resource.h
+
+1650741532 source:c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\main.cpp
+	<windows.h>
+	"functions.h"
+
+1650500039 c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\functions.cpp
+
+1650740988 c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\functions.h
+	<wininet.h>
+
+1650761400 source:c:\users\opiyo\documents\dev stash\win32 stash\ftppractice\functions.cpp
+	<windows.h>
+	<wininet.h>
+	"functions.h"
+

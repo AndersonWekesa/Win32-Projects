@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\resource.h
+
+1650404533 source:c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\main.cpp
+	<windows.h>
+	<wininet.h>
+	<stdio.h>
+	<shellapi.h>
+	"menucmd.h"
+
+1649988702 c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\menucmd.h
+
