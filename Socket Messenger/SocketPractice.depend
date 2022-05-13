@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652382362 source:c:\users\opiyo\documents\dev stash\win32 stash\socketpractice\main.cpp
+	<windows.h>
+	<winsock2.h>
+	"Functions.h"
+
+1652362318 c:\users\opiyo\documents\dev stash\win32 stash\socketpractice\functions.h
+	<winsock2.h>
+
+1514140582 source:c:\users\opiyo\documents\dev stash\win32 stash\socketpractice\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\opiyo\documents\dev stash\win32 stash\socketpractice\resource.h
+
+1652445866 source:c:\users\opiyo\documents\dev stash\win32 stash\socketpractice\functions.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<wininet.h>
+	"Functions.h"
+
