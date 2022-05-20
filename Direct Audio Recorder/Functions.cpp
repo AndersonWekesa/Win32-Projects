@@ -111,7 +111,7 @@ void Initialize(HWND hWnd)
 
 void StartCapture()
 {																												
-	HRESULT	hr = pCaptureBuilder->RenderStream(&PIN_CATEGORY_PREVIEW, &MEDIATYPE_Audio, pAudioCaptureFilter, NULL, pSinkFilter);
+	HRESULT	hr = pCaptureBuilder->RenderStream(&PIN_CATEGORY_CAPTURE, &MEDIATYPE_Audio, pAudioCaptureFilter, NULL, pSinkFilter);
 	if (hr == E_INVALIDARG)
 	{
 		MessageBoxW(NULL, L"Failed to Start Audio Capture!", L"Error", MB_OK | MB_ICONERROR);
